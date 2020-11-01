@@ -1,0 +1,14 @@
+{
+    "name": "mydapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "name",
+        "/category/asset_value_tracking/token/symbol": "Nms",
+        "/category/asset_value_tracking/token/supply": "1000000000",
+        "/category/asset_value_tracking/token/decimals": "10"
+    }
+}
